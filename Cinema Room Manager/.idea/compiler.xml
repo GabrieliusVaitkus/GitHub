@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-A_line_that_throws_an_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Determine_an_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Explore_the_standard_class_library.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Is_the_code_fully_protected.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Out_of_bounds_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-A_method_taking_an_array.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Adding_values.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Sorting_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-The_declaration_of_the_sumAll_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Varargs_method_invocation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-What_does_the_code_print.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Choose_a_return_type.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Greatest_common_divisor.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Raise_to_the_power.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-The_elements_of_a_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Code_that_throws_an_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Lines_that_may_throw_NPE.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-When_NPE_cannot_occur.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Where_NPE_may_occur.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Statements__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Test_learners.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Determine_the_result.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Determine_the_result__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Profit.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-The_smallest_value.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Avoid_division_by_zero.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
